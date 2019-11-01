@@ -1,0 +1,44 @@
+h1{
+    color: hotpink;
+    
+    font-family: Impact;
+    
+    text-align: center;
+    
+    background-color:aliceblue;
+}
+
+h2{
+     color:coral;
+    
+    font-family: Impact;
+    
+    text-align:center;
+
+    background-color:antiquewhite
+    
+}
+    
+h3{
+    font-size: 23px;
+    
+    font-family: Impact;
+    
+    color:crimson;
+    
+}
+
+
+p{
+    font-size: 15px;
+    
+    font-weight: bold;
+    
+    color:darkorchid;
+    
+    font-family: Impact;
+}
+
+body{
+    background-image: url("../images/haikei2.jpg")
+}

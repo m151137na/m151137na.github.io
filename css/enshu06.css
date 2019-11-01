@@ -1,0 +1,21 @@
+h1{
+    color: hotpink;
+    
+    font-family: Impact;
+    
+    text-align: center;
+    
+    background-color: cornsilk;
+}
+
+
+
+p{
+    font-size: 25px;
+    
+    font-weight: bold;
+}
+
+body{
+    background-image: url("../images/miniusagi.jpg")
+}
