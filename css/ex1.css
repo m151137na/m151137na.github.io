@@ -19,14 +19,7 @@ h2{
     
 }
     
-h3{
-    font-size: 23px;
-    
-    font-family: Impact;
-    
-    color:crimson;
-    
-}
+
 
 
 p{
@@ -45,12 +38,11 @@ table{
         
 }
 
-href{
-    
-    background-image: url("../images/miniusagi.jpg")   
+ol{
+        background-image: url("../images/mu.png");
     
 }
 
 body{
-    background-image: url("../images/haikei2.jpg")
+     background-image: url("../images/haikei2.jpg");
 }
