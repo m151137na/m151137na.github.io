@@ -1,0 +1,49 @@
+h1{
+     color:darksalmon;
+    
+    font-family: Impact;
+    
+    text-align: center;
+    
+    background-color:aliceblue;
+}
+
+h1#naka{
+     color:brown;
+    
+    font-family: Impact;
+    
+    text-align: center;
+    
+    background-color:darkgrey;
+}
+
+h2{
+     color:deeppink;
+    
+    font-family: Impact;
+    
+    text-align: center;
+    
+    background-color:blanchedalmond
+}
+
+h2.bluecolor{
+     color:blue;
+    
+    font-family: Impact;
+    
+    text-align: center;
+    
+    background-color:aqua;
+}
+
+p{
+    font-family:fantasy;
+}
+
+
+
+body{
+     background-image: url("../images/haikei2.jpg");
+}

@@ -1,0 +1,48 @@
+h1{
+    color:darksalmon;
+    
+    font-family: Impact;
+    
+    text-align: center;
+    
+    background-color:aliceblue;
+}
+
+h2{
+     color:deeppink;
+    
+    font-family: Impact;
+    
+    text-align:center;
+
+    background-color:antiquewhite
+    
+}
+    
+
+
+
+p{
+    font-size: 15px;
+    
+    font-weight: bold;
+    
+    color:darkorchid;
+    
+    font-family: Impact;
+}
+
+table{
+    
+    background-color:palevioletred;
+        
+}
+
+ol{
+        background-image: url("../images/mu.png");
+    
+}
+
+body{
+     background-image: url("../images/haikei2.jpg");
+}
